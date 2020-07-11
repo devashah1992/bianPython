@@ -1,0 +1,24 @@
+{
+  "currentaccount": {
+    "sd_id": 1,
+    "details": {
+      "role":"this is ...",
+      "desc": "this is the desc",
+      "url":"abc"
+    },
+    "api":{
+      "Outbound":"tests.tests_bian.OutboundApi"
+    }
+  },
+  "corespondance": {
+    "sd_id": 2,
+    "details": {
+      "role":"this is ...",
+      "desc": "this is the desc",
+      "url":"jsonplaceholder.typicode.com/todos"
+    },
+    "api":{
+      "Outbound":"tests.tests_bian.OutboundApi"
+    }
+  }
+}
