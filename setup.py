@@ -14,7 +14,7 @@ setup(
     name='halo_bian',
     version='0.11.86',
     packages=['halo_bian', 'halo_bian.bian','docs'],
-    url='https://github.com/yoramk2/halo_bian',
+    url='https://github.com/devashah1992/bianPython',
     license='MIT License',
     author='yoramk2',
     author_email='yoramk2@yahoo.com',
