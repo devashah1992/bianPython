@@ -9,7 +9,7 @@ nose-progressive==1.5.1
 requests==2.20.1
 environs
 python-json-logger
-PyJWT==1.6.3
+PyJWT==2.4.0
 halo-flask==0.15.88
 jsonpath-ng==1.4.3
 flask-executor==0.9.3
